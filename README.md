@@ -10,24 +10,24 @@
 -In the last days of 2021, I started studying React and NodeJS and then, in 2022, I started the development of a project that I'm currently working on
 
 <b>Currently working on:</b> OnCoffee (Just a project, not a formal job) <br>
-<b>Spoken Languages</b>: Portuguese (Native), English (Fluently)
+<b>Spoken Languages</b>: Portuguese (Native), English (Fluently) <br>
 <b>Some facts about me:</b> I'm a 16yo boy, never had any job, my hobbies are Listening to Spotify, Playing (Mostly Minecraft and CS:GO) and Coding
 
 <h2>Tech Stack</h2>
 
 <h3>Front-end</h3>
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- HTML
+- CSS
+- JavaScript
+- ReactJS
 
 <h3>Back-end and Database</h3>
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- NodeJS
+- PHP
+- MySQL
 
 <h3>Extra</h3>
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++) (Learned at school technical course)
+- C++
 
 <h2>Social Medias and Contact</h2>
 <b>[My main social media] Discord:</b> rach#7705 / . Akito .#7705 <br>
