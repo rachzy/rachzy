@@ -19,6 +19,7 @@
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - ReactJS
 
 <h3>Back-end and Database</h3>
@@ -27,7 +28,10 @@
 - MySQL
 
 <h3>Extra</h3>
-- C++
+- C
+- Java
+
+<h3>Most conformtable with: </h3>JS Slack (Typescript, ReactJS, NodeJS)
 
 <h2>Social Medias and Contact</h2>
 <b>[My main social media] Discord:</b> rach#7705 / . Akito .#7705 <br>
