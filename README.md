@@ -3,7 +3,7 @@
 ## About me
 
 ### STORY TIME
--My first contact with codelines was trying to develop my own games (in Roblox, using LuaScript) and Minecraft plugins (using Java). I started in web-development in 2020, but I just started studying it hard in 2021. 
+-My first contact with codelines was trying to develop my own games (in Roblox, using LuaScript) and Minecraft plugins (using Java). I started in web-development in 2020, but I just started studying it hard in 2021. <br>
 -My first ever project was "Patrocitizens", a simple social network that I tried to develop while I was starting on coding. I learned a lot while creating it, and it's because of that project that I came to the world of web-development, it's thanks to it that I'm here today, but I stopped its development because I didn't have enough knowledge to work on a huge and complex project like that. 
 <br>
 -After studying more, I started a new project on the last days of 2020, called "Fastalk", that was basically a fast-chat by rooms website with video-calls that I loved developing. It got many users, but I shutted it down because I had no investment to keep it online. 
