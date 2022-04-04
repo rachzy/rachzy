@@ -13,7 +13,7 @@
 <b>Occupation:</b> High school student at <b>Federal Institue of Education, Science and Technology of Triângulo Mineiro</b> <br>
 <b>Graduating on:</b> Technical IT Course at <b>Federal Institue of Education, Science and Technology of Triângulo Mineiro</b> (3 years length) <br>
 
-<b>Spoken Languages</b>: Portuguese (Native), English (Fluently) <br>
+<b>Spoken Languages</b>: Portuguese (Native), English (Fluent) <br>
 
 <b>Some facts about me:</b> I'm a 16yo boy, like winter and foxes, never had any formal job, my hobbies are Listening to Spotify, Gaming (Mostly Minecraft and CS:GO), Chatting at Discord and mainly Coding <br>
 
@@ -48,7 +48,8 @@ PS: If I stay too much time without contributing, that's because I'm passing thr
   </tr>
 </table>
 
-<h3>Most conformtable with: </h3>JS Slack (Typescript, ReactJS, NodeJS)
+<h3>Most conformtable with:</h3> JS Slack (Typescript, ReactJS, NodeJS)
+<h3>Intends learning:</h3> Python, Kotlin
 
 <h2>Social Medias and Contact</h2>
 <b>[My main social media] Discord:</b> rach#7705 <br>
