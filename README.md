@@ -1,15 +1,15 @@
-# Hi there, I'm Henrique, a Brazilian full-stack developer 👋
+# Hi there, I'm Henrique, a Brazilian full-stack developer 👋🌉
 
 ## About me
+
+I'm a 16 years old boy that loves gaming, coding and listening to Spotify. I'm currently studying to become a Software Engineer
 
 <b>Occupation:</b> High school student at <b>Federal Institue of Education, Science and Technology of Triângulo Mineiro</b> <br>
 <b>Graduating on:</b> Technical IT Course at <b>Federal Institue of Education, Science and Technology of Triângulo Mineiro</b> (3 years length) <br>
 
 <b>Spoken Languages</b>: Portuguese (Native), English (Fluent) <br>
 
-<b>Some facts about me:</b> I'm a 16yo boy, like winter and foxes, never had any formal job, my hobbies are Listening to Spotify, Gaming (Mostly Minecraft and CS:GO), Chatting at Discord and mainly Coding <br>
-
-PS: If I stay too much time without contributing, that's because I'm passing through exam weeks at school
+PS: If I stay too much time without contributing, it's because I'm passing through exam weeks at school
 
 <h2>Tech Stack</h2>
 <table>
