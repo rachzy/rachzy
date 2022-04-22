@@ -41,8 +41,8 @@ PS: If I stay too much time without contributing, it's because I'm passing throu
 </table>
 
 <h3>Most conformtable with:</h3> JS Slack (Typescript, ReactJS, NodeJS)
-<h3>Intends learning:</h3> Python, Kotlin
+<h3>Intends learning:</h3> Python, Kotlin, Cassandra
 
 <h2>Social Medias and Contact</h2>
 <b>[My main social media] Discord:</b> rach#7705 <br>
-<b>Email:</b> rachultimate@gmail.com
+<b>Email:</b> henriqueferreira.fox@gmail.com / rachultimate@gmail.com
