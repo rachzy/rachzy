@@ -9,8 +9,8 @@ I'm a 16 years old boy that loves gaming, coding and listening to Spotify. I'm c
 
 <b>Spoken Languages</b>: Portuguese (Native), English (Fluent) <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachzy&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachzy&hide=php&show_icons=true&theme=synthwave&layout=compact)](https://github.com/rachzy/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachzy&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachzy&hide=php&exclude_repo=Patrocitizens,Fastalk,Oncoffee&show_icons=true&theme=radical&layout=compact)](https://github.com/rachzy/github-readme-stats)
 
 <h2>Tech Stack</h2>
 
