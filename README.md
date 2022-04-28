@@ -1,4 +1,5 @@
 # Hi there, I'm Henrique, a Brazilian full-stack developer 👋🌉
+![Profile View Count](https://komarev.com/ghpvc/?username=rachzy&color=blueviolet)
 
 ## About me
 
@@ -12,7 +13,7 @@ I'm a 16 years old boy that loves gaming, coding and listening to Spotify. I'm c
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachzy&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachzy&hide=php&exclude_repo=Patrocitizens,Fastalk,Oncoffee&show_icons=true&theme=radical&layout=compact)](https://github.com/rachzy/github-readme-stats)
 
-<h2>Tech Stack</h2>
+## Tech stack
 
 ### Front-end
 
@@ -25,6 +26,8 @@ I'm a 16 years old boy that loves gaming, coding and listening to Spotify. I'm c
 ### Back-end and Database
 
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
@@ -34,8 +37,9 @@ I'm a 16 years old boy that loves gaming, coding and listening to Spotify. I'm c
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 <h3>Most conformtable with:</h3> JS Slack (Typescript, ReactJS, NodeJS)
-<h3>Intends learning:</h3> Python, Kotlin, Cassandra
+<h3>Intends learning:</h3> Python, Kotlin
 
-<h2>Social Medias and Contact</h2>
+## Social Medias and Contact
 <b>[My main social media] Discord:</b> rach#7705 <br>
-<b>Email:</b> henriqueferreira.fox@gmail.com / rachultimate@gmail.com
+<b>Email:</b> henriqueferreira.fox@gmail.com / rachultimate@gmail.com <br>
+
