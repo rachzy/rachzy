@@ -10,8 +10,8 @@ I'm a 16 years old boy that loves gaming, coding and listening to Spotify. I'm c
 
 <b>Spoken Languages</b>: Portuguese (Native), English (Fluent) <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachzy&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachzy&hide=php&exclude_repo=Patrocitizens,Fastalk,Oncoffee&show_icons=true&theme=radical&layout=compact)](https://github.com/rachzy/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rachzy&show_icons=true&theme=radical)&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachzy&hide=php&exclude_repo=Fastalk,Oncoffee&show_icons=true&theme=radical&layout=compact)
 
 ## Tech stack
 
@@ -33,7 +33,6 @@ I'm a 16 years old boy that loves gaming, coding and listening to Spotify. I'm c
 
 ### Extra
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 <h3>Most conformtable with:</h3> JS Slack (Typescript, ReactJS, NodeJS)
