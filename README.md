@@ -3,7 +3,7 @@
 
 ## About me
 
-I'm a 16 years old boy that loves gaming, coding and listening to Spotify. I'm currently studying to become a Software Engineer
+I'm a 16 years old boy that loves gaming, coding and listening to Spotify. I'm currently studying to become a Software Engineer <br>
 (My true name is Pedro Henrique, but I prefer being called just by Henrique)
 
 <b>Occupation:</b> High school student at <b>Federal Institue of Education, Science and Technology of Triângulo Mineiro</b> <br>
