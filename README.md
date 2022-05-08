@@ -3,13 +3,7 @@
 
 ## About me
 
-I'm a 16 years old boy that loves gaming, coding and listening to Spotify. I'm currently studying to become a Software Engineer <br>
-(My true name is Pedro Henrique, but I prefer being called just by Henrique)
-
-<b>Occupation:</b> High school student at <b>Federal Institue of Education, Science and Technology of Triângulo Mineiro</b> <br>
-<b>Graduating on:</b> Technical IT Course at <b>Federal Institue of Education, Science and Technology of Triângulo Mineiro</b> (3 years length) <br>
-
-<b>Spoken Languages</b>: Portuguese (Native), English (Fluent) <br>
+[My Portfolio](https://rachzy.github.io) <br> <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rachzy&show_icons=true&theme=radical)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachzy&hide=php&exclude_repo=Fastalk,Oncoffee&show_icons=true&theme=radical&layout=compact)
