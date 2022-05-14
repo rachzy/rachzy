@@ -1,4 +1,4 @@
-# Hi there, I'm Henrique, a Brazilian full-stack developer 👋🌉
+# Hi there, I'm Henrique, a full-stack developer 👋🌉
 ![Profile View Count](https://komarev.com/ghpvc/?username=rachzy&color=blueviolet)
 
 ## About me
