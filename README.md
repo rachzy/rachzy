@@ -1,11 +1,13 @@
 <h1 align="center">Hi there, I'm Henrique, a full-stack developer 👋🌉</h1>
-<img src="https://komarev.com/ghpvc/?username=rachzy&color=blueviolet" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rachzy&color=blueviolet" />
+ </div>
 
 <a href="https://rachzy.github.io"><h3 align="center">My Portfolio</h3></a>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachzy&show_icons=true&theme=radical" /> <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachzy&hide=php&exclude_repo=Fastalk,Oncoffee&show_icons=true&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rachzy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachzy&hide=php&exclude_repo=Fastalk&show_icons=true&theme=radical&layout=compact&count_private=true" />
  </div>
 
 <h2 align="center">Social Medias and Contact</h2>
