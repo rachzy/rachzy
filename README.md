@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=rachzy&color=blueviolet" />
  </div>
 
-<a href="https://rachzy.github.io"><h3 align="center">My Portfolio</h3></a>
+<h3 align="center"><a href="https://rachzy.github.io">My Portfolio</a></h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rachzy&show_icons=true&theme=radical" />
