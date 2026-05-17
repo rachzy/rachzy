@@ -1,12 +1,11 @@
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=rachzy&color=blueviolet" />
+  <h3 align="center">Click <a href="https://rachzy.github.io">here</a> to know what I do</h3>
  </div>
 
-<h3 align="center"><a href="https://rachzy.github.io">Portfolio</a></h3>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rachzy&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachzy&hide=html,css,php&exclude_repo=learning-python&show_icons=true&theme=radical&layout=compact&count_private=true" />
+  <img height="320em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBhYnE3Mm5lMWVtcWQzMHcwY3A0cm55cWo1MzI1bGNwc2p2NXMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif" />
+  <img height="320em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN4Z2V6em5hY280djE5cHdyejFyMjdsNWxqYjRlZzRtN3gwNnB4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HGQ4RWHYtw9Dmhj7mk/giphy.gif" />
  </div>
 
 <h2 align="center">Contact</h2>
