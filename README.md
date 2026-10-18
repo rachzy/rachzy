@@ -21,4 +21,4 @@
   </a> 
  </div>
  <br />
-<p align="center"><i><a href="https://rachzy.github.io">rachzy.github.io</a></i></p>
+<p align="center"><i><a href="https://rachzy.dev">rachzy.dev</a></i></p>
