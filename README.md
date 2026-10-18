@@ -1,10 +1,13 @@
+<h5 align="center">software engineer ㆍ currently working in OT cybersecurity industry</h5>
+
 <div align="center">
   <img height="320em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBhYnE3Mm5lMWVtcWQzMHcwY3A0cm55cWo1MzI1bGNwc2p2NXMyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif" />
   <img height="320em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN4Z2V6em5hY280djE5cHdyejFyMjdsNWxqYjRlZzRtN3gwNnB4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HGQ4RWHYtw9Dmhj7mk/giphy.gif" />
  </div>
 
-<p align="center"><i>I like tech, astrophysics and automating things (so I can spend more time on Twitter)</i></p>
-<p align="center"><a href="https://rachzy.github.io">Portfolio</a></p>
+<h5 align="center">ufu ㆍ unvoid</h5>
+
+<p align="center"><i>I like cybersec, astrophysics and automating things (so I can spend more time on Twitter)</i></p>
 
 <div align="center">
   <a href="https://discord.com/users/392839201034338316" target="_blank">
@@ -17,3 +20,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
  </div>
+ <br />
+<p align="center"><i><a href="https://rachzy.github.io">rachzy.github.io</a></i></p>
